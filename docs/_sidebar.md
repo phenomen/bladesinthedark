@@ -32,7 +32,7 @@
 - Дело
     - [О делах](score.md)
     - [Планирование и завязка](planning-engagement.md)
-    - [Флешбэк](flashback.md)
+    - [Флешбэки](flashbacks.md)
     - [Командная работа](teamwork.md)
 
 - Перерыв
