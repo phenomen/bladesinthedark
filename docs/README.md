@@ -1,15 +1,6 @@
-<br>
-<p align="center">
-    <h1 align="center">Blades in the Dark SRD на русском языке</h1>
-    <p align="center">Справочник по правилам (System Reference Document) содержит основные механики ролевой игры <strong>Blades in the Dark</strong>.
-    Он не заменяет полную книгу правил, но содержит краткую информацию в удобном для быстрого поиска виде.</p>
-    <p align="center"><strong><a href="https://phenomen.github.io/bladesinthedark/">Сайт с правилами</a></strong></p>
-    <br><br><br>
-</p>
+![](https://www.evilhat.com/home/wp-content/uploads/2016/09/EHP_Blades_Pageheader.jpg)
 
-![jtd](https://www.evilhat.com/home/wp-content/uploads/2016/09/EHP_Blades_Pageheader.jpg)
-
-## Blades in the Dark
+# Blades in the Dark {docsify-ignore-all}
 
 _Blades in the Dark_ — это ролевая игра о банде преступников, стремящихся разбогатеть на опасных улицах индустриально-фантастического города Досквол. В игре вы найдете ограбления, погони, контрабанду, убийства, оккультные загадки, рискованные сделки, кровавые побоища и, конечно же, несметные богатства — если у вас хватит сил и смелости их заполучить.
 
