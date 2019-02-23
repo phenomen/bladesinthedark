@@ -28,6 +28,7 @@
     - [Создание банды](crew-creation.md)
     - [Развитие банды](crew-advancement.md)
     - [Улучшения банды](crew-upgrades.md)
+    - [Специализации и операции](crew-specialization.md)
 
 - Дело
     - [О делах](score.md)
