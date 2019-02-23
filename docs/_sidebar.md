@@ -2,7 +2,7 @@
 
 - [Blades in the Dark](/)
 
-- Основные правила
+* Основные правила
     - [Об игре](core.md)
     - [Базовые правила](basics.md)
     - [Действия и характеристики](actions-attributes.md)
@@ -18,23 +18,32 @@
     - [Монеты и нычка](coin-stash.md)
     - [Фракции](factions.md)
 
-- Персонажи
+* Персонажи
     - [О персонажах](characters.md)
     - [Создание персонажа](characters-creation.md)
     - [Развитие персонажа](characters-advancement.md)
+    - [Персонажи-духи](characters-spirits.md)
 
-- Банда
+* Банда
     - [О банде](crew.md)
     - [Создание банды](crew-creation.md)
     - [Развитие банды](crew-advancement.md)
     - [Улучшения банды](crew-upgrades.md)
     - [Специализации и операции](crew-specialization.md)
 
-- Дело
+* Дело
     - [О делах](score.md)
     - [Планирование и завязка](planning-engagement.md)
     - [Флешбэки](flashbacks.md)
     - [Командная работа](teamwork.md)
 
-- Перерыв
+* Перерыв
     - [О перерыве](downtime.md)
+    - [Выплата](payoff.md)
+    - [Накал](heat.md)
+    - [Затруднения](entanglements.md)
+    - [Занятия перерыва](downtime-activities.md)
+    - [Порок](vice.md)
+    - [Мощность](magnitude.md)
+    - [Ритуалы](rituals.md)
+    - [Создание вещей](crafting.md)
