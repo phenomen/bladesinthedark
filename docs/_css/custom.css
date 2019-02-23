@@ -1,4 +1,19 @@
 .sidebar .sidebar-nav {
     line-height: 1.2em;
-    padding-bottom: 40px;
+}
+
+.markdown-section strong {
+    color: #EEEEEE;
+}
+
+.markdown-section tr:nth-child(even)  {
+    background-color: #323232;
+}
+
+.sidebar>h1 a {
+    color: #ea6f5a;
+}
+
+.sidebar li>p {
+    color: white;
 }
