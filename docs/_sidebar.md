@@ -1,7 +1,3 @@
-<!-- docs/_sidebar.md -->
-
-- [- Blades in the Dark -](/)
-
 * Основные правила
     - [Об игре](core.md)
     - [Базовые правила](basics.md)

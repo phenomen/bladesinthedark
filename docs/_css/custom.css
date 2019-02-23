@@ -10,6 +10,10 @@
     background-color: #323232;
 }
 
+.markdown-section th {
+    color:  #ea6f5a;
+}
+
 .sidebar>h1 a {
     color: #ea6f5a;
 }
