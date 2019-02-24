@@ -2,6 +2,16 @@
     line-height: 1.2em;
 }
 
+.sidebar>h1 a {
+    color: #ea6f5a;
+}
+
+.sidebar li>p {
+    color: #EEEEEE;
+    padding: 0.3em 0em 0.3em 0.5em;
+    background-color: #323232;
+}
+
 .markdown-section strong {
     color: #EEEEEE;
 }
@@ -17,19 +27,8 @@
 .markdown-section th {
     color:  #ea6f5a;
     background-color: #323232;
+}
+
+.markdown-section td, .markdown-section th {
     border: 1px solid #323232;
-}
-
-.markdown-section td {
-    border: 1px solid #323232;
-}
-
-.sidebar>h1 a {
-    color: #ea6f5a;
-}
-
-.sidebar li>p {
-    color: #EEEEEE;
-    padding: 4px 0px 4px 10px;
-    background-color: #323232;
 }

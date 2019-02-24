@@ -1,6 +1,6 @@
-# Blades in the Dark
+# Blades in the Dark SRD
 
-> Перевод ролевой игры Blades in the Dark на русский язык
+> Перевод правил ролевой игры Blades in the Dark на русский язык
 
 - Полный перевод SRD (System Reference Document)
 - Перевод листов персонажей и банд
