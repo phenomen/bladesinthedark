@@ -32,3 +32,7 @@
 .markdown-section td, .markdown-section th {
     border: 1px solid #323232;
 }
+
+.markdown-section hr {
+    border-bottom: 1px solid #323232;
+}
