@@ -6,12 +6,22 @@
     color: #EEEEEE;
 }
 
+.markdown-section tr:nth-child(odd)  {
+    background-color: #3f3f3f;
+}
+
 .markdown-section tr:nth-child(even)  {
     background-color: #323232;
 }
 
 .markdown-section th {
     color:  #ea6f5a;
+    background-color: #323232;
+    border: 1px solid #323232;
+}
+
+.markdown-section td {
+    border: 1px solid #323232;
 }
 
 .sidebar>h1 a {
@@ -19,5 +29,7 @@
 }
 
 .sidebar li>p {
-    color: white;
+    color: #EEEEEE;
+    padding: 4px 0px 4px 10px;
+    background-color: #323232;
 }
