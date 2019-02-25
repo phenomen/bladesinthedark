@@ -12,7 +12,7 @@
     - [Бросок фортуны](fortune-roll.md)
     - [Сбор информации](gathering-information.md)
     - [Монеты и нычка](coin-stash.md)
-    - [Фракции](factions.md)
+    - [Фракции и банды](factions.md)
 
 * Персонажи
     - [О персонажах](characters.md)
@@ -41,5 +41,5 @@
     - [Занятия перерыва](downtime-activities.md)
     - [Порок](vice.md)
     - [Мощность](magnitude.md)
-    - [Ритуалы](rituals.md)
     - [Создание вещей](crafting.md)
+    - [Ритуалы](rituals.md)
