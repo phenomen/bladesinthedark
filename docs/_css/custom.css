@@ -12,6 +12,12 @@
     background-color: #323232;
 }
 
+.search {
+    margin-bottom: 6px;
+    padding: 6px;
+    border-bottom: 0px;
+}
+
 .markdown-section strong {
     color: #EEEEEE;
 }

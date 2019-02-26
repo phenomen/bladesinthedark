@@ -7,7 +7,7 @@
   <meta name="description" content="Blades in the Dark SRD на русском языке">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/dark.css">
-  <link rel="stylesheet" href="_css/custom.css">
+
 </head>
 <body>
   <div id="app"></div>
@@ -19,8 +19,27 @@
       auto2top: true,
       homepage   : 'index.md',
       coverpage  : 'coverpage.md',
+      search: 'auto',
+
+      // Search
+      search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: 'auto', // or 'auto'
+      placeholder: 'Поиск...',
+      // Localization
+      noData: {
+        '/': 'Ничего не найдено'
+      },
+
+      // Headline depth, 1 - 6
+      depth: 3,
+
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <link rel="stylesheet" href="_css/custom.css">
 </body>
 </html>
