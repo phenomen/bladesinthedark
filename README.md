@@ -4,7 +4,7 @@
     <p align="center">Справочник по правилам (System Reference Document) содержит основные механики ролевой игры <strong>Blades in the Dark</strong>.
     Он не заменяет полную книгу правил, но содержит краткую информацию в удобном для быстрого поиска виде.</p>
     <p align="center"><strong><a href="https://phenomen.github.io/bladesinthedark/">Сайт с правилами</a></strong></p>
-    <br><br><br>
+    <br><br>
 </p>
 
 ![jtd](https://www.evilhat.com/home/wp-content/uploads/2016/09/EHP_Blades_Pageheader.jpg)
