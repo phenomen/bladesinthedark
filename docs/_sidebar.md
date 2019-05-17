@@ -8,7 +8,7 @@
     - [Эффект](effect.md)
     - [Позиция](position.md)
     - [Последствия и урон](consequences-harm.md)
-    - [Сопротивление и броня](resistance-armor.md)
+    - [Сопротивление и защита](resistance-armor.md)
     - [Бросок фортуны](fortune-roll.md)
     - [Сбор информации](gathering-information.md)
     - [Монеты и заначка](coin-stash.md)
