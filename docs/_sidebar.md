@@ -11,7 +11,7 @@
     - [Сопротивление и броня](resistance-armor.md)
     - [Бросок фортуны](fortune-roll.md)
     - [Сбор информации](gathering-information.md)
-    - [Монеты и нычка](coin-stash.md)
+    - [Монеты и заначка](coin-stash.md)
     - [Фракции и банды](factions.md)
 
 * Персонажи
@@ -39,7 +39,7 @@
     - [Накал](heat.md)
     - [Затруднения](entanglements.md)
     - [Занятия перерыва](downtime-activities.md)
-    - [Порок](vice.md)
+    - [Страсть](vice.md)
     - [Мощность](magnitude.md)
     - [Создание вещей](crafting.md)
     - [Ритуалы](rituals.md)
