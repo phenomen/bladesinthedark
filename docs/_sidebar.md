@@ -3,7 +3,7 @@
     - [Базовые правила](basics.md)
     - [Действия и характеристики](actions-attributes.md)
     - [Стресс и травмы](stress-trauma.md)
-    - [Часы прогресса](progress-clocks.md)
+    - [Счётчики прогресса](progress-clocks.md)
     - [Бросок действия](action-roll.md)
     - [Эффект](effect.md)
     - [Позиция](position.md)
@@ -12,7 +12,7 @@
     - [Бросок фортуны](fortune-roll.md)
     - [Сбор информации](gathering-information.md)
     - [Монеты и заначка](coin-stash.md)
-    - [Фракции и банды](factions.md)
+    - [Организации и банды](factions.md)
 
 * Персонажи
     - [О персонажах](characters.md)
